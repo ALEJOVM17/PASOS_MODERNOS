@@ -1,0 +1,131 @@
+[26-Aug-2024 16:42:38 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[26-Aug-2024 16:42:38 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[26-Aug-2024 16:42:38 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[26-Aug-2024 16:42:45 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[26-Aug-2024 16:42:45 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[26-Aug-2024 16:42:45 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[26-Aug-2024 16:42:46 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[26-Aug-2024 16:42:46 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[26-Aug-2024 16:42:46 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[26-Aug-2024 16:42:48 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[26-Aug-2024 16:42:48 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[26-Aug-2024 16:42:48 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[26-Aug-2024 16:42:57 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[26-Aug-2024 16:42:57 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[26-Aug-2024 16:42:57 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[26-Aug-2024 17:04:13 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[26-Aug-2024 17:04:13 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[26-Aug-2024 17:04:13 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[26-Aug-2024 17:04:16 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[26-Aug-2024 17:04:16 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[26-Aug-2024 17:04:16 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[26-Aug-2024 17:04:18 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[26-Aug-2024 17:04:18 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[26-Aug-2024 17:04:18 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[26-Aug-2024 17:04:19 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[26-Aug-2024 17:04:19 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[26-Aug-2024 17:04:19 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[26-Aug-2024 17:04:20 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[26-Aug-2024 17:04:20 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[26-Aug-2024 17:04:20 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[02-Sep-2024 17:20:27 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[02-Sep-2024 17:20:27 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[02-Sep-2024 17:20:27 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[02-Sep-2024 17:20:30 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[02-Sep-2024 17:20:30 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[02-Sep-2024 17:20:30 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[02-Sep-2024 17:20:32 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[02-Sep-2024 17:20:32 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[02-Sep-2024 17:20:32 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[09-Oct-2024 21:52:56 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[09-Oct-2024 21:52:56 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[09-Oct-2024 21:52:56 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[09-Oct-2024 21:52:58 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[09-Oct-2024 21:52:58 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[09-Oct-2024 21:52:58 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[09-Oct-2024 21:53:02 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[09-Oct-2024 21:53:02 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[09-Oct-2024 21:53:02 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[09-Oct-2024 21:53:05 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[09-Oct-2024 21:53:05 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[09-Oct-2024 21:53:05 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[09-Oct-2024 21:53:07 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[09-Oct-2024 21:53:07 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[09-Oct-2024 21:53:09 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[09-Oct-2024 21:53:10 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[09-Oct-2024 21:53:10 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 86
+[09-Oct-2024 21:53:10 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 86
+[09-Oct-2024 21:53:10 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8_spanish_ci,IMPLICIT) and (utf8_unicode_ci,IMPLICIT) for operation '=' in /home1/rsroofin/public_html/Test1/sistema/modal.php:89
+Stack trace:
+#0 /home1/rsroofin/public_html/Test1/sistema/modal.php(89): mysqli_query(Object(mysqli), 'CALL add_detall...')
+#1 {main}
+  thrown in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 89
+[09-Oct-2024 21:53:12 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[09-Oct-2024 21:53:12 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 86
+[09-Oct-2024 21:53:12 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 86
+[09-Oct-2024 21:53:12 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8_spanish_ci,IMPLICIT) and (utf8_unicode_ci,IMPLICIT) for operation '=' in /home1/rsroofin/public_html/Test1/sistema/modal.php:89
+Stack trace:
+#0 /home1/rsroofin/public_html/Test1/sistema/modal.php(89): mysqli_query(Object(mysqli), 'CALL add_detall...')
+#1 {main}
+  thrown in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 89
+[09-Oct-2024 21:53:16 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[09-Oct-2024 21:53:16 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 86
+[09-Oct-2024 21:53:16 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 86
+[09-Oct-2024 21:53:16 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8_spanish_ci,IMPLICIT) and (utf8_unicode_ci,IMPLICIT) for operation '=' in /home1/rsroofin/public_html/Test1/sistema/modal.php:89
+Stack trace:
+#0 /home1/rsroofin/public_html/Test1/sistema/modal.php(89): mysqli_query(Object(mysqli), 'CALL add_detall...')
+#1 {main}
+  thrown in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 89
+[09-Oct-2024 21:53:17 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[09-Oct-2024 21:53:17 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 86
+[09-Oct-2024 21:53:17 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 86
+[09-Oct-2024 21:53:17 America/Bogota] PHP Fatal error:  Uncaught mysqli_sql_exception: Illegal mix of collations (utf8_spanish_ci,IMPLICIT) and (utf8_unicode_ci,IMPLICIT) for operation '=' in /home1/rsroofin/public_html/Test1/sistema/modal.php:89
+Stack trace:
+#0 /home1/rsroofin/public_html/Test1/sistema/modal.php(89): mysqli_query(Object(mysqli), 'CALL add_detall...')
+#1 {main}
+  thrown in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 89
+[09-Oct-2024 21:53:22 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[09-Oct-2024 21:53:22 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[09-Oct-2024 21:53:22 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[09-Oct-2024 21:53:22 America/Bogota] PHP Warning:  Undefined variable $query_detalle_temp in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 171
+[09-Oct-2024 21:53:22 America/Bogota] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, null given in /home1/rsroofin/public_html/Test1/sistema/modal.php:171
+Stack trace:
+#0 /home1/rsroofin/public_html/Test1/sistema/modal.php(171): mysqli_fetch_assoc(NULL)
+#1 {main}
+  thrown in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 171
+[09-Oct-2024 21:53:25 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[09-Oct-2024 21:53:25 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[09-Oct-2024 21:53:25 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[09-Oct-2024 21:53:25 America/Bogota] PHP Warning:  Undefined variable $query_detalle_temp in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 171
+[09-Oct-2024 21:53:25 America/Bogota] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, null given in /home1/rsroofin/public_html/Test1/sistema/modal.php:171
+Stack trace:
+#0 /home1/rsroofin/public_html/Test1/sistema/modal.php(171): mysqli_fetch_assoc(NULL)
+#1 {main}
+  thrown in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 171
+[09-Oct-2024 21:53:26 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[09-Oct-2024 21:53:26 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[09-Oct-2024 21:53:26 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[09-Oct-2024 21:53:26 America/Bogota] PHP Warning:  Undefined variable $query_detalle_temp in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 171
+[09-Oct-2024 21:53:26 America/Bogota] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, null given in /home1/rsroofin/public_html/Test1/sistema/modal.php:171
+Stack trace:
+#0 /home1/rsroofin/public_html/Test1/sistema/modal.php(171): mysqli_fetch_assoc(NULL)
+#1 {main}
+  thrown in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 171
+[12-Oct-2024 17:21:27 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[12-Oct-2024 17:21:27 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[12-Oct-2024 17:21:27 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[12-Oct-2024 17:21:27 America/Bogota] PHP Warning:  Undefined variable $query_detalle_temp in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 171
+[12-Oct-2024 17:21:27 America/Bogota] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, null given in /home1/rsroofin/public_html/Test1/sistema/modal.php:171
+Stack trace:
+#0 /home1/rsroofin/public_html/Test1/sistema/modal.php(171): mysqli_fetch_assoc(NULL)
+#1 {main}
+  thrown in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 171
+[12-Oct-2024 17:21:28 America/Bogota] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 4
+[12-Oct-2024 17:21:28 America/Bogota] PHP Warning:  Undefined global variable $_SESSION in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[12-Oct-2024 17:21:28 America/Bogota] PHP Warning:  Trying to access array offset on value of type null in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 147
+[12-Oct-2024 17:21:28 America/Bogota] PHP Warning:  Undefined variable $query_detalle_temp in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 171
+[12-Oct-2024 17:21:28 America/Bogota] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, null given in /home1/rsroofin/public_html/Test1/sistema/modal.php:171
+Stack trace:
+#0 /home1/rsroofin/public_html/Test1/sistema/modal.php(171): mysqli_fetch_assoc(NULL)
+#1 {main}
+  thrown in /home1/rsroofin/public_html/Test1/sistema/modal.php on line 171
